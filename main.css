@@ -1,0 +1,41 @@
+body {
+  background: #fff;
+  color: #141823;
+  line-height: 1.28;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  direction: ltr;
+  unicode-bidi: embed;
+}
+
+.bluebar {
+  background-color: #3a5795;
+  height: 82px;
+  min-width: 980px;
+  display: block;
+}
+
+.logo {
+  width: 170px;
+  height: 36px;
+  color: #fff;
+  display: inline-block;
+  background-position: 0 -118px;
+  margin-top: 25px;
+  margin-left: 250px;
+}
+
+.login {
+  position: absolute;
+  right: 250px;
+  color: #fff;
+  margin-top: 35px;
+}
+
+.login1 {
+  position: absolute;
+  right: 150px;
+  color: #fff;
+  margin-top: 35px;
+}
